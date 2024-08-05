@@ -22,7 +22,7 @@ const perguntas = [
     {
         enunciado: "como o racismo se manifesta no dia a dia?",
         alternativas: [
-            "o racismo pode se manifestar atraves de comentarios ofensivos,brincadeiras,microagressoes,dificuldade de acesso a empregos,saude e a educação.",
+            " racismo pode se manifestar atraves de comentarios ofensivos,brincadeiras,microagressoes,dificuldade de acessoo a empregos,saude e a educação.",
             "o racismo não se manifesta no dia a dia."
         ]
     }
